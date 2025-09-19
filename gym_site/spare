@@ -1,0 +1,45 @@
+<!-- Merchandise Section -->
+<section class="merch" id="merch">
+    <h2 class="heading" data-aos="zoom-in-down">Get Your <span>Brand Gear</span></h2>
+    <div class="merch-content" data-aos="zoom-in-up">
+        <div class="box">
+            <h3>Performance Tee</h3>
+            <h2><span>£24.99</span></h2>
+            <ul>
+                <li>Breathable Fabric</li>
+                <li>Comfort Fit</li>
+                <li>Brand Logo Print</li>
+            </ul>
+            <a href="#">
+                Shop Now
+                <i class='bx bxs-right-arrow-alt'></i>
+            </a>
+        </div>
+        <div class="box">
+            <h3>Hydration Bottle</h3>
+            <h2><span>£15.99</span></h2>
+            <ul>
+                <li>BPA Free</li>
+                <li>Leakproof Lid</li>
+                <li>750ml Capacity</li>
+            </ul>
+            <a href="#">
+                Shop Now
+                <i class='bx bxs-right-arrow-alt'></i>
+            </a>
+        </div>
+        <div class="box">
+            <h3>Resistance Bands Set</h3>
+            <h2><span>£19.99</span></h2>
+            <ul>
+                <li>3 Levels of Resistance</li>
+                <li>Durable Material</li>
+                <li>Includes Carry Bag</li>
+            </ul>
+            <a href="#">
+                Shop Now
+                <i class='bx bxs-right-arrow-alt'></i>
+            </a>
+        </div>
+    </div>
+</section>
